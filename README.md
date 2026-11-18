@@ -7,3 +7,4 @@ The data in `ward_temperatures.csv` is made up: patient IDs are not real people.
 
 To run it: `python fever_check.py`
 The fever threshold is 38.5 degrees Celsius.
+This project is used to practise version control.
